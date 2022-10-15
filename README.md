@@ -1,11 +1,14 @@
-<h2>Hey everyone! I am Luka</h2>
+## Hey everyone! I am Luka
 
 [![Linkedin Badge](https://img.shields.io/badge/-lukagurdulic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurdulic96/)](https://www.linkedin.com/in/gurdulic96/)
 [![Gmail Badge](https://img.shields.io/badge/-gurdulicluka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurdulicluka@gmail.com)](mailto:gurdulicluka@gmail.com)
 
-### About me
+### 👨‍💻 About me
 
-I'm a self taught frontend developer from Croatia, who is currently looking for work and participation in open source projects. I mainly code in `React.js` / `Next.js`. Always eager to learn and create new, awesome things.
+I'm a self taught frontend developer based in Croatia and is currently looking for work and participation in open source projects. I mainly code in `React.js` / `Next.js`. Always eager to learn and create new awesome things.<br><br>
+My journey as a developer started in 2019 when I started dabbling with some `Python` and backend which to me got boring quite fast, so I began looking elsewhere. Long story short, I pivoted to web development and feel in love with the creative side of it. Somewhere in between logic and creativity is a place where I feel most happy.
+
+---
 
 ### 🛠️ Languages and Tools :
 
@@ -28,25 +31,3 @@ I'm a self taught frontend developer from Croatia, who is currently looking for 
 - Material UI
 - Advanced animations
 - Firebase
-<br>
-<br>
-<div id="header" align="center">
-    <img width="20%" src="https://media.giphy.com/media/VzrEQuZUS6NvuqYtCy/giphy.gif">
-</div>
-
-<details >
-<summary align="center">
-More stuff about me
-</summary>
-
-### Hobbies
-
-### Languages 🌐
-
-| Language | Proficiency                |
-| -------- | -------------------------- |
-| English  | Writing, reading, speaking |
-| German   | Reading                    |
-| Croatian | Native language            |
-
-</details>
