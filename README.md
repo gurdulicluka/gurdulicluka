@@ -27,7 +27,7 @@ My journey as a developer started in 2019 when I started dabbling with some `Pyt
 
 ### 📚 What I'm currently learning
 
-- More React.js 🥰
-- Material UI
+- More NextJS 🥰
+- Tailwind CSS
 - Advanced animations
-- Firebase
+- Databases
