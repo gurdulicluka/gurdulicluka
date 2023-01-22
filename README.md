@@ -24,7 +24,7 @@ My journey as a developer started in 2019 when I started dabbling with some `Pyt
 
 ### 📚 What I'm currently learning
 
-- More NextJS 🥰
+- NextJS 🥰
 - Tailwind CSS
-- Advanced animations
-- Databases
+- Framer Motion
+- MySQL
