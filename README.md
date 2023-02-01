@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About me
 
-I'm a self taught frontend developer based in Croatia and is currently looking for work and participation in open source projects. I mainly code in `React.js` / `Next.js`. Always eager to learn and create new awesome things.<br><br>
-My journey as a developer started in 2019 when I started dabbling with some `Python` and backend which to me got boring quite fast, so I began looking elsewhere. Long story short, I pivoted into web development and fell in love with the creative side of it. Somewhere in between logic and creativity is a place where I feel the most happy.
+I'm a self taught frontend developer based in Croatia and is currently looking for work and participation in open source projects. I mainly code in `React.js`. Always eager to learn and create new awesome things.<br><br>
+My journey as a developer started in 2019 when I started dabbling with some `Python` and backend which got boring quite fast, so a year later I began looking elsewhere. Long story short, I pivoted into frontend development and fell in love with the creative side of it. Somewhere in between logic and creativity is a place where I feel the most happy.
 
 ---
 
@@ -24,7 +24,6 @@ My journey as a developer started in 2019 when I started dabbling with some `Pyt
 
 ### 📚 What I'm currently learning
 
-- NextJS 🥰
 - Tailwind CSS
 - Framer Motion
-- MySQL
+- Astro
