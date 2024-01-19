@@ -8,8 +8,6 @@ Somewhere in between logic and creativity is a place where I feel the most happy
 
 Feel free to contact me for open source work and collaborations :) [![Gmail Badge](https://img.shields.io/badge/-gurdulicluka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurdulicluka@gmail.com)](mailto:gurdulicluka@gmail.com)
 
----
-
 ### 🛠️ Stack :
 
 <div>
